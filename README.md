@@ -9,6 +9,6 @@
 5) **After every layer, I have used Batch Normalization to transform the data points to have Zero Mean and Variance One.**
 6) **I have used Dropout layers to avoid Overfitting.**
 7) **I have performed Data Augmentation and generated random images with ImageDatagenerator to avoid Overfitting.**
-8) **I have used LearningRateScheduler after every Epoch to Reduce the Learning Rate in order to converge to local Optimum.**
+8) **I have used LearningRateScheduler after every Epoch to Reduce the Learning Rate in order to converge to Local Optimum.**
 9) **Then, I plot the Confusion Matrix to Evaluate the Performance of the model on the data.**
 10) **Lastly, I have generated csv file and made submission on Kaggle and acheived 99.66% Accuracy on its Public Leaderboard.**
